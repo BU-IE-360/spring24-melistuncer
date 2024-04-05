@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to my Progress Journal of IE423 Project
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+This is my [Progress Journal website](https://bu-ie-360.github.io/spring24-melistuncer/) created for IE 360 course at Bogazici University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Homework 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Description of Homework 1](HW1_files/IE360_Spring24_HW1.pdf)
+* [Source Code (ipynb file)](HW1_files/IE360_HW1.ipynb)
+* [Report (HTML file)](HW1_files/IE360_HW1.html)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
