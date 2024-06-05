@@ -9,3 +9,8 @@ This is my [Progress Journal website](https://bu-ie-360.github.io/spring24-melis
 * [Source Code (ipynb file)](HW1_files/IE360_HW1.ipynb)
 * [Report (HTML file)](HW1_files/IE360_HW1.html)
 
+## Project
+* [Data Processing (Python ipynb file)](IE360_Project_Data_processing_Group28.ipynb)
+* [Source Codes (R ipynb file)](IE360_Project_RCodes_Group28.ipynb)
+* [HTML file](IE360_Project_RCodes_Group28.html)
+* [Project Report](   )
